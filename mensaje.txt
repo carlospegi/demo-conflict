@@ -1,6 +1,6 @@
 hola mundo 
 
-adios saturno
+adios saturno y urano
 
 linea1
 linea2
